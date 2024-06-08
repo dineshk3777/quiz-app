@@ -1,0 +1,53 @@
+.quiz-heading{
+  margin-left: 530px;
+  color: rgb(238, 238, 150);
+  font-size: 2.5rem;
+}
+
+.quiz-container{
+  margin-left: 350px;
+  margin-top: 120px;
+  font-size: 1.8rem;
+  color: rgb(179, 172, 76);
+  font-weight: 900;
+}
+
+.previous-question{
+  color: black;
+  font-weight: 900;
+  background-color: cadetblue;
+
+}
+
+.previous-question:focus{
+  background-color: blue;
+  }
+
+.next-question{
+  color: black;
+  font-weight: 900;
+  background-color: cadetblue;
+ 
+}
+
+.next-question:focus{
+background-color: blue;
+}
+
+.submit{
+  background-color: crimson;
+  
+  }
+ .submit:focus{
+  background-color: darkred;
+ } 
+
+.buttons-container{
+  display: flex;
+  justify-content: space-around;
+}
+
+.options:focus{
+  background-color: yellowgreen;
+}
+

@@ -1,0 +1,44 @@
+.topic-heading{
+  color: rgb(189, 180, 162);
+  margin-left: 390px;
+  font-size: 2rem;
+}
+
+.topic-button{
+  margin-left: 140px;
+  display: flex;
+  justify-content: space-around;  
+}
+
+.button-first {
+  background-color: rgb(247, 127, 163);
+  border-radius: 10px;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.button-first:focus{
+  background-color: darkmagenta;
+}
+
+.button-second {
+  background-color: rgb(247, 127, 163);
+  border-radius: 10px;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.button-second:focus{
+  background-color: darkmagenta;
+}
+
+.button-third {
+  background-color: rgb(247, 127, 163);
+  border-radius: 10px;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.button-third:focus{
+  background-color: darkmagenta;
+}

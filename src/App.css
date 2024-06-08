@@ -1,0 +1,13 @@
+body{
+  background-image: url('../quizimage2.jpg');
+  background-repeat: no-repeat;
+  background-size: 1370px 650px;
+  
+}
+
+.head{
+  color: rgb(235, 235, 122);
+  margin-left: 500px;
+  margin-top: 150px;
+  font-size: 5.5rem;
+}

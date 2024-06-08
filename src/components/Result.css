@@ -1,0 +1,30 @@
+.result-container{
+  margin-top: 220px;
+  margin-left: 590px;
+  }
+
+  .result-head{
+    color: rgb(179, 45, 45);
+    font-size: 2.5rem;
+    font-weight: 850;
+  }
+
+  .result-score{
+    color: coral;
+    font-size: 1.5rem;
+    margin-left: -40px;
+  }
+
+  .homepage{
+    margin-top: 40px;
+    margin-left: 50px;
+    background-color: blueviolet;
+    color: beige;
+    font-weight: 700;
+    border-radius: 5px;
+  }
+
+  .homepage:focus{
+    background-color: blue;
+    color: antiquewhite;
+  }
